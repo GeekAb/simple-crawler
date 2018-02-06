@@ -1,0 +1,24 @@
+{
+  "name": "simple-crawler",
+  "version": "0.0.1",
+  "description": "Simple Webpage crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekAb/simple-crawler.git"
+  },
+  "author": "Abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekAb/simple-crawler/issues"
+  },
+  "homepage": "https://github.com/GeekAb/simple-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.83.0",
+    "url-parse": "^1.2.0"
+  }
+}
